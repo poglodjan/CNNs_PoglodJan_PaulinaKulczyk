@@ -12,7 +12,9 @@ A general introduction and overview of our deep learning pipeline using CNNs. Th
 - Simple baseline CNN architectures (e.g. single and double Conv2D)
 - Early performance analysis with and without augmentation
 
-### 📘 `CNN_modern_architectures.ipynb`
+### `Augmentation_technique_presentation.ipynb`
+Code implementations of various data augmentation techniques with examples and visualizations of the transformations applied.
+
 This notebook tests **modern and deeper models**:
 - ResNet18 / ResNet34
 - VGG16
@@ -22,8 +24,8 @@ We analyze their performance on the CINIC-10 dataset and compare results in term
 ### 📘 `CCN_ensemble_models.ipynb`
 We propose an **ensemble learning** approach using the best-performing models. This notebook combines CNNs trained on different augmentations (e.g., sepia, flipped) and specialized models to improve classification—especially for challenging classes like cats and dogs.
 
-### 📘 `Project Report`
-The file CNNetworks_Project.pdf is our detailed report, documenting our work, methodology, experiments, and findings. It includes:
+### 📘 `CNNetworks_Project.pdf`
+A detailed report, documenting our work, methodology, experiments, and findings. It includes:
 - Overview of our research
 - Model architectures used
 - Training process and results
