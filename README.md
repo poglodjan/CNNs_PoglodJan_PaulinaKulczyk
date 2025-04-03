@@ -22,6 +22,13 @@ We analyze their performance on the CINIC-10 dataset and compare results in term
 ### 📘 `CCN_ensemble_models.ipynb`
 We propose an **ensemble learning** approach using the best-performing models. This notebook combines CNNs trained on different augmentations (e.g., sepia, flipped) and specialized models to improve classification—especially for challenging classes like cats and dogs.
 
+### 📘 `Project Report`
+The file CNNetworks_Project.pdf is our detailed report, documenting our work, methodology, experiments, and findings. It includes:
+- Overview of our research
+- Model architectures used
+- Training process and results
+- Performance evaluation and analysis
+
 ### 📘 `results_presentation.pdf`
 A concise slide deck summarizing our methodology, model comparisons, confusion matrices, and final conclusions from the experiments.
 
