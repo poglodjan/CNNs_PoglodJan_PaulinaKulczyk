@@ -12,7 +12,7 @@ A general introduction and overview of our deep learning pipeline using CNNs. Th
 - Simple baseline CNN architectures (e.g. single and double Conv2D)
 - Early performance analysis with and without augmentation
 
-### `Augmentation_technique_presentation.ipynb`
+### 📘 `Augmentation_technique_presentation.ipynb`
 Code implementations of various data augmentation techniques with examples and visualizations of the transformations applied.
 
 This notebook tests **modern and deeper models**:
